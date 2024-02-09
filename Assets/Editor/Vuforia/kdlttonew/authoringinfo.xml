@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="37.6876 -3.2883 -47.4770 68.1603 5.4929 -22.2442" targetId="669ef76d2c0b41e795056df442bba23f" name="kdlttonew" pathAuthoring="669ef76d2c0b41e795056df442bba23f_authoring.glb" pathOcclusion="669ef76d2c0b41e795056df442bba23f_occlusion.3dt" pathNavMesh="669ef76d2c0b41e795056df442bba23f_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

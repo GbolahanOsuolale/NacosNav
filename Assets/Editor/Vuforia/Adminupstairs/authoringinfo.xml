@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="-14.7867 0.7392 -20.8705 8.0710 5.8590 5.3529" targetId="9c05853925804b3a815eb0033da32e6f" name="Adminupstairs" pathAuthoring="9c05853925804b3a815eb0033da32e6f_authoring.glb" pathOcclusion="9c05853925804b3a815eb0033da32e6f_occlusion.3dt" pathNavMesh="9c05853925804b3a815eb0033da32e6f_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

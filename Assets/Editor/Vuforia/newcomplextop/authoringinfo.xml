@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="42.2056 -1.4389 -34.5143 84.1036 8.5502 -8.4463" targetId="07a973dd52a740ec865b1f71495100c6" name="newcomplextop" pathAuthoring="07a973dd52a740ec865b1f71495100c6_authoring.glb" pathOcclusion="07a973dd52a740ec865b1f71495100c6_occlusion.3dt" pathNavMesh="07a973dd52a740ec865b1f71495100c6_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

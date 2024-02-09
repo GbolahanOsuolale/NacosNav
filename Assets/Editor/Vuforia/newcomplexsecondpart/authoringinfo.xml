@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="74.2382 -8.1463 -28.1668 112.6084 2.6425 5.3633" targetId="4d5e4f4ebbfd4922bc7770448f66e183" name="newcomplexsecondpart" pathAuthoring="4d5e4f4ebbfd4922bc7770448f66e183_authoring.glb" pathOcclusion="4d5e4f4ebbfd4922bc7770448f66e183_occlusion.3dt" pathNavMesh="4d5e4f4ebbfd4922bc7770448f66e183_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>

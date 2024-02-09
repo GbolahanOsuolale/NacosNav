@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<QCARInfo>
+    <TargetSet version="3.4">
+        <AreaTarget version="5.1" bbox="15.2246 -7.4967 -4.0582 64.7050 6.9463 13.2080" targetId="4f51b503937242deb090ff45402ccb40" name="cltcomplex" pathAuthoring="4f51b503937242deb090ff45402ccb40_authoring.glb" pathOcclusion="4f51b503937242deb090ff45402ccb40_occlusion.3dt" pathNavMesh="4f51b503937242deb090ff45402ccb40_navmesh.glb" cloudTarget="false" />
+    </TargetSet>
+</QCARInfo>
